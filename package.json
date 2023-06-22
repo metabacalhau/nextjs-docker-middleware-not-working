@@ -1,0 +1,23 @@
+{
+  "name": "nextjs-docker-middleware-not-working",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "build": "next build",
+    "dev": "next dev",
+    "start": "next start"
+  },
+  "repository": "git@github.com:metabacalhau/nextjs-docker-middleware-not-working.git",
+  "author": "Iurii Tankievych <iurii.tankievych@outlook.com>",
+  "license": "MIT",
+  "dependencies": {
+    "next": "^13.4.7",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  },
+  "devDependencies": {
+    "@types/node": "20.3.1",
+    "@types/react": "^18.2.13",
+    "typescript": "5.1.3"
+  }
+}
